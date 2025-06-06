@@ -90,8 +90,8 @@ This analysis demonstrates the value of data mining approaches in extracting ins
 
 ## Repository Structure
 
-- **Task_1.7HD.ipynb**: Main Jupyter notebook containing the complete analysis
-- **Task_1.7HD.py**: Python script version of the notebook
+- **DiabetesAnalysis.ipynb**: Main Jupyter notebook containing the complete analysis
+- **jupytext_script.py**: Python script version of the notebook
 - **Data files**: Original NHANES dataset files (*.xpt.txt)
 
 ## Future Research Directions
