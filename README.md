@@ -5,7 +5,7 @@
 This project analyzes the National Health and Nutrition Examination Survey (NHANES) dataset to uncover patterns related to diabetes risk factors and biomarkers. Using advanced data mining techniques and unsupervised machine learning, this analysis identifies significant patterns and relationships that contribute to diabetes risk.
 
 ## Author
-- **Hoang Son Pham** - Student ID: 223240555
+- **Hoang Son Pham** 
 
 ## Introduction
 
@@ -92,12 +92,9 @@ This analysis demonstrates the value of data mining approaches in extracting ins
 
 - **Task_1.7HD.ipynb**: Main Jupyter notebook containing the complete analysis
 - **Task_1.7HD.py**: Python script version of the notebook
-- **plot_summary.md**: Detailed explanation of visualization techniques
 - **Data files**: Original NHANES dataset files (*.xpt.txt)
-- **SIT220-Task 1.7HD.pdf**: Project requirements and guidelines
 
 ## Future Research Directions
-
 Future research could build upon these findings by:
 1. Incorporating longitudinal data to track progression of risk factors
 2. Applying supervised learning for predictive modeling
@@ -105,4 +102,4 @@ Future research could build upon these findings by:
 
 ## Acknowledgements
 
-This project uses data from the National Health and Nutrition Examination Survey (NHANES), conducted by the Centers for Disease Control and Prevention (CDC). The analysis is part of the SIT220 course requirements.
+This project uses data from the National Health and Nutrition Examination Survey (NHANES), conducted by the Centers for Disease Control and Prevention (CDC). 
